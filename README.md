@@ -1,4 +1,4 @@
-# Object Oriented Proggraming
+# Object Oriented Programming
 
 Adding Multiple Inheritance to Java with reflection and annotations.
 
